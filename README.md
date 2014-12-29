@@ -4,6 +4,20 @@ Programmer's Toolbox
 A chrome extension designed to be a resource for programmers
 
 
+Possible Topics
+--------
+1. APIS
+2. Software Engineering patters
+3. Data Structures 
+4. Algorithms
+
+
+
+Current Progress
+-------
+Need to redesign main menu
+
+
 
 
 Credits
