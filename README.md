@@ -10,6 +10,7 @@ Possible Topics
 2. Software Engineering patters
 3. Data Structures 
 4. Algorithms
+5. programming procedures
 
 
 
